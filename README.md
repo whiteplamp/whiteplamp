@@ -1,4 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python3 && FastApi
+- 🌱 I’m currently learning Python3 && django
 - 🤔 I’m looking for help with understanding programming
-- 💬 Ask me about c++ or Python
+
